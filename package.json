@@ -14,7 +14,7 @@
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-toastify": "^5.4.1",
-    "yarn": "^1.21.0"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/core": "7.7.4",
